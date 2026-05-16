@@ -1,5 +1,4 @@
-
-# ⚡ JUSTICERS - Discord Server Administration Tool
+# JUSTICERS - Tool
 
 Advanced Discord server administration tool with fluorescent terminal interface and 35+ commands.
 
@@ -104,40 +103,75 @@ Double-click run.bat
 
 # Command Description
 1 NUKE Delete all channels, roles, emojis, and stickers
+
 2 Del Channels Delete all channels
+
 3 Del Roles Delete all roles
+
 4 Del Emojis Delete all emojis
+
 5 Del Stickers Delete all stickers
+
 6 Rename Roles Rename all roles
+
 7 Rename Chs Rename all channels
+
 8 Rename Emojis Rename all emojis
+
 9 Rename Stickers Rename all stickers
+
 10 Rename ALL Rename everything at once
+
 11 Mass Chs Create multiple channels
+
 12 Mass Roles Create multiple roles
+
 13 Mass Cats Create multiple categories
+
 14 Del Webhooks Delete all webhooks
+
 15 Kick All Kick all members
+
 16 Ban All Ban all members
+
 17 Unban All Unban all members
+
 18 Nickname All Nickname all members
+
 19 Move All VC Move all members to a voice channel
+
 20 Spam All Spam all text channels
+
 21 Webhook Spam Spam via webhooks
+
 22 DM Spam Spam a user's DMs
+
 23 Server Info Show server information
+
 24 Rename Server Change server name
+
 25 Server Icon Change server icon via URL
+
 26 Leave Server Leave the current server
+
 27 Invite Create an invite link
+
 28 Audit Log View recent audit log entries
+
 29 Clone Server Copy server structure (roles, channels, categories)
+
 30 Paste Clone Paste cloned structure
+
 31 Delete Server Destroy entire server
+
 32 Purge DMs Delete all your messages in all DM chats
+
 33 Clear Friends Remove all friends
+
 34 Leave All Leave all servers
+
 35 Local Logs View local log file
+
 
 ---
 
@@ -159,7 +193,7 @@ Color Usage
 
 Developer
 
-· @nulljustice (Brad) - Lead Developer
+· @nulljustice (brad) - Lead Developer
 
 Contributors & Credits
 
@@ -212,13 +246,12 @@ Use at your own risk.
 
 🔗 Links
 
-· Discord Developer Portal
-· Python Downloads
-· Report Issues
+· https://discord.com/developers
+· https://python.org/downloads
+· https://github.com/nulljustice/justicers/issues
 
 ---
 
 <p align="center">
   Made with ❤️ by the JUSTICERS team
 </p>
-```
